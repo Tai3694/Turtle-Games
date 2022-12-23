@@ -19,3 +19,11 @@ As data analysts, we want to minimise residuals to determine the line of best fi
 
 # Summary - Assignment 2
 Utilising both the elbow and silhouette methods helps determining the k-value. In both cases it can be difficult to see the specific peak or elbow. However, in the above graphs there tends to be a common value of k= 5. Indicating the optimal number of clusters is around 5. To further test this I employ 3 different values of k. Those values are 3, 4 and 5 to see and compare predicted values and visualisations. Going from k=3 to k=5, we see that the number of predicted values per class follows a better distribution. It is also interesting to see how clustering of k=5 fits within the dataset. Specifically, there are 5 different education/qualification level that an individual can have.
+
+
+# Summary - Assignment 3
+By using sentiment analysis, a quick summary of current consumer satisfaction is presented. Turtle Games want to learn more about how their consumers feel about their goods and services, and they want to know what proportion of customer reviews are neutral, positive, or negative. 
+
+First by creating a Word cloud, where a tag is a visual representation of text data; tags are often single words whose significance is shown by their size and colour. When looking at reviews the most common words are game, love, great, fun, new and much more. These words suggest that customers are having a positive experience. Following this we can also look at customer summaries to see if this idea holds. In fact, the common tags in customer summaries is very similar and we see more words such as five stars, excellent and so on.
+
+Overall, this suggests a satisfying interaction with the goods or services. By looking at the most popular good and negative reviews on their website. We could further analyse this by looking the top positive and negative reviews from their website. When focusing on positive reviews and summaries, we again see the words highlighted above but additional words such as best, wonderful, and perfect. However, when focusing on negative reviews and summaries, the most words that appear are boring and disappointing.
